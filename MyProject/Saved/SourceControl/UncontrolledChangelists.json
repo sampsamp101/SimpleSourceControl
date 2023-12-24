@@ -5,11 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Aaron/Documents/GitHub/SimpleSourceControl/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Aaron/Documents/GitHub/SimpleSourceControl/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RX/KBL6JFEFR3HVXKTAE1JXR3.uasset",
-				"C:/Users/Aaron/Documents/GitHub/SimpleSourceControl/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W5/OIZLBM1XEF5P9A48W7FCKE.uasset",
-				"C:/Users/Aaron/Documents/GitHub/SimpleSourceControl/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/IJ/3GAR0MTLF9CKYTARG2EMYA.uasset",
-				"C:/Users/Aaron/Documents/GitHub/SimpleSourceControl/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YI/6VHU8ZJNFIUHXSOKNHSV2B.uasset"
+				"C:/Users/Aaron/Documents/GitHub/SimpleSourceControl/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
 	]
